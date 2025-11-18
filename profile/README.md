@@ -30,13 +30,10 @@
 
 Argy Spot es un sistema el cual se accede a través de una aplicación móvil, el cual ofrece las funcionalidades que permite recomendar, demostrar, corregir y cuantificar los ejercicios de fuerza. Pues se permite hacer recomendaciones y crear preferencias de usuario a partir de un LLM, mostrar la correcta ejecución de los ejercicios a través de realidad aumentada, corregir los rangos articulares del usuario en la ejecución y mostrar estadísticas acerca de los ejercicios realizados.
 
-<h3>⚙️ Servicios, hardware y repositorios utilizados</h3>
+<h3>⚙️ Servicios y tecnologías utilizadas</h3>
 
 - **📱 Aplicación móvil Android**
   - Todas las funcionalidades del sistema se utilizan a través de la aplicación Android.
-  
-- **📷 Uso de la Cámara**
-  - Se hace uso de la cámara para mostrar las animaciones 3D en realidad aumentada y corregir la ejecución del usuario en tiempo real.
 
 - **👤 Servicio de autenticación**
   - Permite registrarse, hacer login y actualizar la información de usuario.
