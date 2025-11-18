@@ -23,7 +23,7 @@
 
 Argy Spot es un sistema el cual se accede a través de una aplicación móvil, el cual ofrece las funcionalidades que permite recomendar, demostrar, corregir y cuantificar los ejercicios de fuerza. Pues se permite hacer recomendaciones y crear preferencias de usuario a partir de un LLM, mostrar la correcta ejecución de los ejercicios a través de realidad aumentada, corregir los rangos articulares del usuario en la ejecución y mostrar estadísticas acerca de los ejercicios realizados.
 
-<h3 id="#servicios-hardware">⚙️ Servicios y tecnologías utilizadas</h3>
+<h3 id="servicios-hardware">⚙️ Servicios y tecnologías utilizadas</h3>
 
 - **📱 Aplicación móvil Android**
   - Todas las funcionalidades del sistema se utilizan a través de la aplicación Android.
@@ -91,25 +91,25 @@ Argy Spot es un sistema el cual se accede a través de una aplicación móvil, e
 
 
 
-<h3 id="#diagrama-de-casos-de-uso">💬 ​Diagrama de Casos de Uso</h3>
+<h3 id="diagrama-de-casos-de-uso">💬 ​Diagrama de Casos de Uso</h3>
 
 <p align="center">
     <img width="1000" src="https://github.com/user-attachments/assets/114f5ecf-bc6b-4cb1-84aa-ee8c87b278af">
 </p>
 
-<h3 id="#diagrama-contexto">📄 ​Diagrama de Contexto</h3>
+<h3 id="diagrama-contexto">📄 ​Diagrama de Contexto</h3>
 
 <p align="center">
     <img width="1000" src="https://github.com/user-attachments/assets/873da9c5-578f-44b1-a8d7-1a86528a847f">
 </p>
 
-<h3 id="#diagrama-ER">📅 Diagrama de entidad relación</h3>
+<h3 id="diagrama-ER">📅 Diagrama de entidad relación</h3>
 
 <p align="center">
     <img width="1724" height="1000" src="https://github.com/user-attachments/assets/dd29dd8b-bd9e-40d9-ac0c-91c9fe65c403" />
 </p>
 
-<h3 id="#diagrama-de-despliegue">🔧  Diagrama de Despliegue</h3>
+<h3 id="diagrama-de-despliegue">🔧  Diagrama de Despliegue</h3>
 
 <p align="center">
     <img width="1000" src="https://github.com/user-attachments/assets/1af55061-24e3-48a2-a4e4-a8612f427d15">
